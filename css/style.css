@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: #A3E5FB;
+    background-color: #0049a2;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -16,7 +16,7 @@ body {
 }
 
 .navbar {
-    background-color: #FFE516;
+    background-color: #000040;
 }
 
 
@@ -81,11 +81,12 @@ p {
 
 #footer {
     margin-top: 5rem;
-    background-color: #FFE516;
+    background-color: #000040;
+    color: white;
 }
 
 .list-space .list-menu {
-    color: black;
+    color: white;
     text-decoration: none;
 }
 
